@@ -1,4 +1,4 @@
-<font color="green" size="50" align="center"><b>Hi there! My name is Habibi 👋</b></font>
+<p color="green" size="50" align="center">Hi there! My name is Habibi 👋</p>
 
 17 year old student from Indonesia 🇮🇩
 <br> click <a href="https://ahmadhabibi14.github.io">here</a> to know about me</br>
