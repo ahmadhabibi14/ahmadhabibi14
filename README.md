@@ -1,4 +1,4 @@
-# <p align="center">Hi there! My name is Habibi 👋</p>
+# <p align="center">Hi there! I'm Habibi 👋</p>
 
 <p align="center">17 year old student from Indonesia 🇮🇩
 <br> click <a href="https://ahmadhabibi14.github.io">here</a> to know about me</br></p>
