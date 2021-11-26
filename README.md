@@ -5,11 +5,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadhabibi14&show_icons=true&count_private=true" alt="Github Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadhabibi14&show_icons=true&count_private=true&theme=dracula" alt="Github Stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&layout=compact" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
 </p>
