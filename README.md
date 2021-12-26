@@ -1,7 +1,7 @@
 # <p align="center">Hi there! I'm <span style="color:blue;">Habibi</span> 👋</p>
 
 <p align="center">17 year old student from Indonesia 🇮🇩
-<br> click <a href="http://habibi2004.tech">here</a> to know about me</br></p>
+<br> click <a href="https://habibi2004.tech">here</a> to know about me</br></p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
