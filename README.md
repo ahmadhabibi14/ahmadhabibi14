@@ -57,8 +57,8 @@
 
 ## 📊 My Github Stats
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhabibi14&theme=react" width="48%" >
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadhabibi14&show_icons=true&theme=react" alt="Github Stats" width="48%"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhabibi14&theme=react" width="48%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadhabibi14&show_icons=true&theme=react" alt="Github Stats" width="48%" align="right"/>
 <br>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&layout=compact&theme=react" alt="Top Languages" />
 
