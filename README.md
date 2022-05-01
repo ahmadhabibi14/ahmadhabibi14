@@ -3,15 +3,11 @@
 <h1 align="center">Hi There! <img src="./assets/Hi.gif" height="32" />, I'm <a href="https://habibi2004.tech" style="color:#0d6efd;text-decoration: none;">Ahmad Habibi</a></h1>
 <h4 align="center">Frontend Web Developer</h4>
 
-![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
-
 ## 👨🏻‍💻 About Me
 
 - 🔭 I’m currently working on <a href="https://www.petanikode.com/" style="color: #1195FA;text-decoration: none;">Petani Kode <span style="font-size: 10px;">↗️</span></a>
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I like Memes
-
-![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
 ## 📬 Connect with Me
 
@@ -27,9 +23,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-DEDEDE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmadhabibi14)
 [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/ahmadhabibi7159)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibi0751@gmail.com)
-
-
-![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
 ## 🔧 Technologies and Tools
 
@@ -52,8 +45,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
 ## 📊 My Github Stats
 
