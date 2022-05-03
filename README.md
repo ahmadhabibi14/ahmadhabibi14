@@ -48,7 +48,7 @@
 
 ## 📊 My Github Stats
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhabibi14&theme=react" width="48%" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&layout=compact&theme=react" alt="Top Languages" align="right"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhabibi14&theme=react" width="180" />
+<img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&layout=compact&theme=react" alt="Top Languages"/>
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
