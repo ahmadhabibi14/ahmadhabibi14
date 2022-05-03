@@ -49,8 +49,8 @@
 ## 📊 My Github Stats
 
 <p align="left">
-<a href="https://github.com/RianAsmara">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhabibi14&theme=react" height="180em" />
+<a href="https://github.com/ahmadhabibi14">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadhabibi14&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&layout=compact&theme=react" alt="Top Languages"/>
 </a>
 </p>
