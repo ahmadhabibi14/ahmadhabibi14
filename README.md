@@ -1,13 +1,13 @@
-<p align="center"><a href="https://habibi2004.tech"><img width="150" src="./assets/hbbiiiii.png" /></a></p>
+<p align="center"><a href="https://habibi2004.tech"><img width="150" src="./assets/habiLogo.svg" /></a></p>
 
 <h1 align="center">Hi There! <img src="./assets/Hi.gif" height="32" />, I'm <a href="https://habibi2004.tech" style="color:#0d6efd;text-decoration: none;">Ahmad Habibi</a></h1>
 <h4 align="center">Frontend Web Developer</h4>
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 I’m currently working on <a href="https://www.petanikode.com/" style="color: #1195FA;text-decoration: none;">Petani Kode <span style="font-size: 10px;">↗️</span></a>
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I like Memes
+-  🔭 I’m currently a Computer Science student <a href="https://uniqhba.ac.id/">Qamarul Huda Badaruddin University↗️</a>
+-  😄 Pronouns: He/Him
+-  ⚡ Fun fact: I like Memes
 
 ## 📬 Connect with Me
 
@@ -17,7 +17,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-MdZA9OwLIzYDi4pXaGvsg)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadhabibi14)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285339384959)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/~ahmadhabibi14_)
 [![Telegram](https://img.shields.io/badge/Telegram-DEDEDE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmadhabibi14)
