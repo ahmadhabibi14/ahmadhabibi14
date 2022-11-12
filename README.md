@@ -1,7 +1,7 @@
 <p align="center"><a href="https://habibi2004.tech"><img width="150" src="./assets/habiLogo.svg" /></a></p>
 
 <h1 align="center">Hi There! <img src="./assets/Hi.gif" height="32" />, I'm <a href="https://habibi2004.tech" style="color:#0d6efd;text-decoration: none;">Ahmad Habibi</a></h1>
-<h4 align="center">College Student | Web Developer | Content Writer | Blogger</h4>
+<h4 align="center">College Student <a href="/">|</a> Web Developer <a href="/">|</a> Content Writer <a href="/">|</a> Blogger</h4>
 
 ## 👨🏻‍💻 About Me
 
