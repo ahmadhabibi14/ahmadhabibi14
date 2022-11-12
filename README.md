@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
--  🔭 I’m currently a Computer Science student <a href="https://uniqhba.ac.id/">Qamarul Huda Badaruddin University ↗️</a>
+-  🔭 I’m currently a Computer Science student at <a href="https://uniqhba.ac.id/">Qamarul Huda Badaruddin University ↗️</a>
 -  😄 Pronouns: He/Him
 -  ⚡ Fun fact: I like Memes
 
