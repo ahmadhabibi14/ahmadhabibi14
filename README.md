@@ -49,6 +49,6 @@
    
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadhabibi14&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&langs_count=10&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&langs_count=10&theme=react" />
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
