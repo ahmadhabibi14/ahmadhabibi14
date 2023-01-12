@@ -58,6 +58,6 @@
 
 ## 📊 My Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&langs_count=10&theme=react&layout=compact" />
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)" />
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
