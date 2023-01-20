@@ -61,5 +61,7 @@
 <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" />
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,bootstrap,alpinejs,react,nodejs,ts,vite,go,bash,cpp,mysql,nginx,git,linux,neovim,stackoverflow,cloudflare,netlify)](https://skillicons.dev)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
