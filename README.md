@@ -8,7 +8,7 @@
 -  🔭 I’m currently a Computer Science student
 -  💬 Ask me about Anything
 -  😄 Pronouns: He/Him
--  📫 How to reach me: habibi0751@gmail.com
+-  📫 How to reach me: habi@ternaklinux.com
 -  ⚡ Fun fact: I like Memes
 
 ## 📬 Connect with Me
