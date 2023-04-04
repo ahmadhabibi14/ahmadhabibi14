@@ -22,7 +22,9 @@
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 
 ## 📊 My Github Stats
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&langs_count=12&layout=compact&hide_progress=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+| WakaTime Stats | Most Used Languages |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahmadhabibi14&theme=tokyonight&layout=compact&langs_count=10" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmadhabibi14&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" /> |
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
