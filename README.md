@@ -1,13 +1,14 @@
 [![Habibi's banner](./assets/banner.png)](https://habibi2004.pages.dev/)
 
-<h1 align="center">Hi There! <img src="./assets/Hi.gif" height="32" />, I'm <a href="https://habibi2004.pages.dev/">HBBIIIII</a></h1>
 <h3 align="center">Computer Science Student <a href="/">|</a> GNU/Linux Enthusiast <a href="/">|</a> Software Developer <a href="/"></h3>
 
-## 👨🏻‍💻 About Me
+![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
+
+### 👨🏻‍💻 About Me
 
 -  👨🏻‍💼 My name is `Ahmad Rizky Nusantara Habibi`
 -  🏠 Live in `Lombok, Indonesia`
--  💻 `Computer Science` Student at `Qamarul Huda Badaruddin University`
+-  💻 `Computer Science` student at `Qamarul Huda Badaruddin University`
 -  😄 Pronouns: `He/Him`
 -  📫 Contact me at `habi@ternaklinux.com`
 -  ⚡ I like Memes, Anime, and Football
@@ -26,10 +27,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadhabibi14)
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 
-## 📊 My Github Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 | Most Used Languages |
 | --- |
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmadhabibi14&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" /> |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&theme=gotham&langs_count=10&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) |
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
