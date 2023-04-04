@@ -1,4 +1,4 @@
-<p align="center"><a href="https://habibi2004.pages.dev/"><img width="150" src="./assets/habiLogo.svg" /></a></p>
+[![Habibi's banner](./assets/banner.png)](https://habibi2004.pages.dev/)
 
 <h1 align="center">Hi There! <img src="./assets/Hi.gif" height="32" />, I'm <a href="https://habibi2004.pages.dev/">HBBIIIII</a></h1>
 <h3 align="center">Computer Science Student <a href="/">|</a> GNU/Linux Enthusiast <a href="/">|</a> Software Developer <a href="/"></h3>
