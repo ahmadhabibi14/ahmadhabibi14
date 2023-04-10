@@ -1,6 +1,6 @@
 [![Habibi's banner](./assets/banner.png)](https://habibi2004.pages.dev/)
 
-<h3 align="center">Computer Science Student <a href="/">|</a> GNU/Linux Enthusiast <a href="/">|</a> Software Developer <a href="/"></h3>
+<h3 align="center">Computer Science Student <a href="/">|</a> GNU/Linux Enthusiast <a href="/">|</a> Web Developer <a href="/"></h3>
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
