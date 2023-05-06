@@ -8,7 +8,7 @@
 
 -  👨🏻‍💼 My name is `Ahmad Rizky Nusantara Habibi`
 -  🏠 Live in `Lombok, Indonesia`
--  💻 `Computer Science` student at [Qamarul Huda Badaruddin University](https://uniqhba.ac.id/)
+-  💻 `Computer Science` student
 -  😄 Pronouns: `He/Him`
 -  📫 Contact me at `habi@ternaklinux.com`
 -  ⚡ I like Memes, Anime, and Football
