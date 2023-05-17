@@ -13,8 +13,7 @@
 -  📫 Contact me at `habi@ternaklinux.com`
 -  ⚡ I like Memes, Anime, and Football
 -  🌟 My current tech stack:
-    - `Astro Build`
-    - `React TypeScript`
+    - `Next.js`
     - `Golang`
     - `MariaDB`
 
