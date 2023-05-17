@@ -14,6 +14,7 @@
 -  ⚡ I like Memes, Anime, and Football
 -  🌟 My current tech stack:
     - `Next.js`
+    - `Tailwindcss`
     - `Golang`
     - `MariaDB`
 
