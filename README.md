@@ -6,8 +6,7 @@
 
 ### 👨🏻‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&theme=gotham&langs_count=10&hide_progress=true" alt="ahmadhabibi14's Top langs" style="margin-bottom:50px">
-<ul align="left">
+<ul>
     <li>👨🏻‍💼 My name is <code>Ahmad Rizky Nusantara Habibi</code></li>
     <li>🏠 Live in <code>Lombok, Indonesia</code></li>
     <li>💻 <code>Computer Science</code> student</li>
