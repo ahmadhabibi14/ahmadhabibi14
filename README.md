@@ -13,14 +13,6 @@
     <li>😄 Pronouns: <code>He/Him</code></li>
     <li>📫 Contact me at <code>habi@ternaklinux.com</code></li>
     <li>⚡ I like Memes, Anime, and Football</li>
-    <li>🌟 My current tech stack:
-        <ul>
-            <li><code>Next.js</code></li>
-            <li><code>Tailwindcss</code></li>
-            <li><code>Golang</code></li>
-            <li><code>MariaDB</code></li>
-        </ul>
-    </li>
 </ul>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habi@ternaklinux.com)
@@ -31,5 +23,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-DEDEDE?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/ahmadhabibi14)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadhabibi14)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Ahmad-Habibi-14-1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&layout=donut&langs_count=10&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
