@@ -1,4 +1,4 @@
-[![Habibi's banner](./assets/banner.png)](https://habibi2004.pages.dev/)
+[![Habibi's banner](./assets/the-banner.png)](https://habibi2004.pages.dev/)
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
