@@ -23,4 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadhabibi14)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Ahmad-Habibi-14-1)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&layout=donut&langs_count=12&hide_progress=true&theme=gotham&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
