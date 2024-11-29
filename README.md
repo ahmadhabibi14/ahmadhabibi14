@@ -8,7 +8,7 @@
     <li>👨🏻‍💼 My name is <code>Ahmad Rizky Nusantara Habibi</code></li>
     <li>🏠 Live in <code>Lombok, Indonesia</code></li>
     <li>💻 I'm a <code>Computer Science</code> student</li>
-    <li>🧑🏻‍💻 I'm a <code>Software Engineer</code></li>
+    <li>🧑🏻‍💻 I'm a <code>Backend Engineer</code></li>
     <li>😄 Pronouns: <code>He/Him</code></li>
     <li>📫 Contact me at <code>habi@ternaklinux.com</code></li>
     <li>⚡ I like Memes, Anime, and Football</li>
