@@ -6,6 +6,7 @@
 
 <ul>
     <li>👨🏻‍💼 My name is <code>Ahmad Rizky Nusantara Habibi</code></li>
+    <li>💬 Call me <code>Habi/Habib/Habibi</code> (whichever you want to choose)</li>
     <li>🏠 Live in <code>Lombok, Indonesia</code></li>
     <li>💻 I'm a <code>Computer Science</code> student</li>
     <li>🧑🏻‍💻 I'm a <code>Backend Engineer</code></li>
