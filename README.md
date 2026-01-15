@@ -6,9 +6,9 @@
 
 <ul>
     <li>👨🏻‍💼 My name is <code>Ahmad Rizky Nusantara Habibi</code></li>
-    <li>💬 Call me <code>Habi/Habib/Habibi</code> (whichever you want to choose)</li>
+    <li>💬 Call me <code>Habi</code>
     <li>🏠 Live in <code>Lombok, Indonesia</code></li>
-    <li>💻 I'm a <code>Computer Science</code> student</li>
+    <li>💻 I'm a final year <code>Computer Science</code> student</li>
     <li>🧑🏻‍💻 I'm a <code>Backend Engineer</code></li>
     <li>😄 Pronouns: <code>He/Him</code></li>
     <li>📫 Contact me at <code>habi@ternaklinux.com</code></li>
@@ -23,7 +23,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-DEDEDE?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/ahmadhabibi14)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadhabibi14)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Ahmad-Habibi-14-1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhabibi14&layout=donut&langs_count=12&hide_progress=true&theme=gotham&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
