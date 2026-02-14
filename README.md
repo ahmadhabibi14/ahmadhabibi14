@@ -6,13 +6,13 @@
 
 <ul>
     <li>👨🏻‍💼 My name is <code>Ahmad Rizky Nusantara Habibi</code></li>
-    <li>💬 Call me <code>Habi</code>
+    <li>💬 You can call me <code>HΛBI</code>/<code>HΛBIB</code>/<code>HΛBIBI</code>
     <li>🏠 Live in <code>Lombok, Indonesia</code></li>
     <li>💻 I'm a final year <code>Computer Science</code> student</li>
     <li>🧑🏻‍💻 I'm a <code>Backend Engineer</code></li>
     <li>😄 Pronouns: <code>He/Him</code></li>
-    <li>📫 Contact me at <code>habi@ternaklinux.com</code></li>
-    <li>⚡ I like Memes, Anime, and Football</li>
+    <li>📫 Contact me at <code>habi@ternaklinux.com</code>/<code>ahmadhabibi04@proton.me</code></li>
+    <li>⚡ I like Memes, Anime, Football, and History literature</li>
 </ul>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habi@ternaklinux.com)
