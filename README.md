@@ -7,7 +7,7 @@
 <ul>
     <li>👨🏻‍💼 My name is <code>Ahmad Rizky Nusantara Habibi</code></li>
     <li>💬 You can call me <code>HΛBI</code>/<code>HΛBIB</code>/<code>HΛBIBI</code>
-    <li>🏠 Live in <code>Lombok, Indonesia</code></li>
+    <li>🏠 Live in <code>Jakarta, Indonesia</code></li>
     <li>💻 I'm a final year <code>Computer Science</code> student</li>
     <li>🧑🏻‍💻 I'm a <code>Backend Engineer</code></li>
     <li>😄 Pronouns: <code>He/Him</code></li>
