@@ -11,7 +11,7 @@
     <li>💻 I'm a final year <code>Computer Science</code> student</li>
     <li>🧑🏻‍💻 I'm a <code>Backend Engineer</code></li>
     <li>😄 Pronouns: <code>He/Him</code></li>
-    <li>📫 Contact me at <code>habi@ternaklinux.com</code>/<code>ahmadhabibi04@proton.me</code></li>
+    <li>📫 Contact me at <code>ahmadhabibi04@proton.me</code></li>
     <li>⚡ I like Memes, Anime, Football, and History literature</li>
 </ul>
 
